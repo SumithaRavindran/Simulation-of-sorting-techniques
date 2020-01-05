@@ -1,10 +1,15 @@
 # Simulation-of-sorting-techniques
 
  The five sorting techniques which we have implemented are-
+ 
 • Bubble Sort
+
 • Insertion Sort
+
 • Selection Sort
+
 • Merge Sort
+
 • Quick Sort
 
 Data sets: crafted four data sets such that two data sets are synthetic (drawn from a distribution) and two data sets that are real (research some real data sets online.)  
