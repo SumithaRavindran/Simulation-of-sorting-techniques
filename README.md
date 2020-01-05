@@ -11,11 +11,16 @@ Data sets: crafted four data sets such that two data sets are synthetic (drawn f
 
 Ran a set of simulation experiments that evaluate the following performance measures [on the y-axis] (a) run time (b) memory usage against the following parameters [on the x-axis] (a) data size, (b) degree of data sortedness.
 
-Name of the Algorithm    Time Complexity / Space Complexity
+Time Complexity / Space Complexity
+
 Bubble Sort           -        O (n^2) / O (1)
+
 Selection Sort        -        O (n^2) / O (1)
+
 Insertion Sort        -        O (n^2) / O (1)
+
 Merge Sort            -        O (n log n) / O (n)
+
 Quick Sort            -        O (n log n)/ O (n)
 
 From the Simulations, we have observed that the run time for Insertion sort, Selection Sort and Bubble Sort was much higher than
